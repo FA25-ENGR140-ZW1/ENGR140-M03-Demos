@@ -73,6 +73,7 @@ Logical operators allow us to combine multiple boolean expressions.
 | false | true | false |
 | false | false | false |
 
+
 **OR Operator (`||`)**
 | A | B | A || B |
 |---|---|--------|
@@ -80,6 +81,7 @@ Logical operators allow us to combine multiple boolean expressions.
 | true | false | true |
 | false | true | true |
 | false | false | false |
+
 
 ### Demo Code: Logical Operations
 
