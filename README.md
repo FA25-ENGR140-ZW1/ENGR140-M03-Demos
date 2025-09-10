@@ -75,7 +75,7 @@ Logical operators allow us to combine multiple boolean expressions.
 
 
 **OR Operator (`||`)**
-| A | B | A || B |
+| A | B | A \| \| B |
 |---|---|--------|
 | true | true | true |
 | true | false | true |
