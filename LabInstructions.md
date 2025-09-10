@@ -3,7 +3,7 @@
 
 **Estimated Time:** 2-3 hours  
 **Points:** 100 points total  
-**Due Date:** [Insert your due date]
+**Due Date:** See Canvas!
 
 ---
 
