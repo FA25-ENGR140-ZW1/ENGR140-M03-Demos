@@ -23,19 +23,12 @@
 2. Inside this folder, you'll create separate `.cpp` files for each exercise
 3. Make sure you have a C++ compiler ready (Code::Blocks, Visual Studio, g++, etc.)
 
-### Step 2: Template for All Programs
-Use this template as the starting point for each program:
+### Step 2: Setup Project Directory
+Use the demos project as a template as the starting point for each program:
 
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    // Your code goes here
-    
-    return 0;
-}
-```
+- Create a new CPP file for each excercise in this lab
+- Create a new Header file for each exercise in this lab
+- Link the Header CPP in the Main CPP file.
 
 ---
 
