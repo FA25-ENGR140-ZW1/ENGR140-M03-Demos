@@ -60,7 +60,7 @@ Logical operators allow us to combine multiple boolean expressions.
 | Operator | Description | Example | Result |
 |----------|-------------|---------|--------|
 | `&&` | AND (both must be true) | `true && true` | `true` |
-| `||` | OR (at least one must be true) | `true || false` | `true` |
+| `\|\|` | OR (at least one must be true) | `true \|\| false` | `true` |
 | `!` | NOT (reverses the boolean) | `!true` | `false` |
 
 ### Truth Tables
